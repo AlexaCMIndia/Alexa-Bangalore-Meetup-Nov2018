@@ -1,9 +1,11 @@
-# Build An Simple Bangalore Meetup Alexa Skill
+# Build An Simple Alexa Skill Bangalore Meetup - Suggest Places to visit
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
 
 ## Description
 - This is a simple Alexa code base to recommand the user to visist the places based on taking inputs about the zones from User(Sample skill built for bangalore region - Meetup).
+
+- Skills asks for User's name and area zone and suggests the places to visit based on the zone.
   
 - This code is using the [Alexa Skill Kit SDK for NodeJS v2](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs).
 
