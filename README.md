@@ -1,4 +1,4 @@
-# Build An Simple Alexa Skill Bangalore Meetup - Suggest Places to visit
+# Build An Simple Alexa Skill for Bangalore Meetup - Suggest Places to visit
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
 
